@@ -1,0 +1,19 @@
+.profile img{
+    float: left;
+    margin: 10px;
+    width:200px;
+    height: 200px;
+}
+.pic img {margin: 20px;
+}
+
+.meImg{
+    
+}
+
+@media only screen and (min-width: 992px){
+      .pic img{        
+          margin:20px; 
+          width:100%
+        }  
+}
